@@ -27,6 +27,7 @@ It also acts similar to Magisk or SuperSU, allowing apps to easily execute `syst
     <img src="screenshots/03.png" width="10%" /> 
 </div>
 
+## How to Downgrade SMT
 ### Usage (with Shizuku)
 Simply run the app and grant Shizuku access.
 
