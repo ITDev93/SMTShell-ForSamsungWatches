@@ -40,6 +40,8 @@ Alternatively, you can use `pm install -d /data/local/tmp/com.samsung.SMT_v3.0.0
 
 2. Install and open the SMT Shell app, and follow the prompts.
 
+---
+
 ### Licences & Origin
 This project started as a fork of [SMT-CVE-2019-16253](https://github.com/flankerhqd/vendor-android-cves/tree/master/SMT-CVE-2019-16253), created by flankerhqd (AKA flanker017). There is also a write-up by flanker [here](https://blog.flanker017.me/text-to-speech-speaks-pwned). Due to the original repo containing multiple unrelated projects, this fork's git history was rewritten using `git filter-repo` so that it only contains the relevant code (and no prebuilt artifacts).
 
