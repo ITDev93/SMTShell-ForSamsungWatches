@@ -21,19 +21,19 @@ This tool allows most Samsung devices to achieve a `system` shell (UID 1000). It
 It also acts similar to Magisk or SuperSU, allowing apps to easily execute `system` commands via [SMTShell-API](https://github.com/BLuFeNiX/SMTShell-API/).
 
 <div align="center">
-    <img src="screenshots/01.jpg" width="10%" />
-    <img src="screenshots/02.jpg" width="10%" /> 
-    <img src="screenshots/03.jpg" width="10%" /> 
-    <img src="screenshots/04.jpg" width="10%" />
-    <img src="screenshots/05.jpg" width="10%" /> 
-    <img src="screenshots/06.jpg" width="10%" /> 
-    <img src="screenshots/07.jpg" width="10%" />
-    <img src="screenshots/08.jpg" width="10%" /> 
-    <img src="screenshots/09.jpg" width="10%" /> 
-    <img src="screenshots/10.jpg" width="10%" />
-    <img src="screenshots/11.jpg" width="10%" /> 
-    <img src="screenshots/12.jpg" width="10%" /> 
-    <img src="screenshots/13.jpg" width="10%" /> 
+    <img src="screenshots/01.jpg" width="25%" />
+    <img src="screenshots/02.jpg" width="25%" /> 
+    <img src="screenshots/03.jpg" width="25%" /> 
+    <img src="screenshots/04.jpg" width="25%" />
+    <img src="screenshots/05.jpg" width="25%" /> 
+    <img src="screenshots/06.jpg" width="25%" /> 
+    <img src="screenshots/07.jpg" width="25%" />
+    <img src="screenshots/08.jpg" width="25%" /> 
+    <img src="screenshots/09.jpg" width="25%" /> 
+    <img src="screenshots/10.jpg" width="25%" />
+    <img src="screenshots/11.jpg" width="25%" /> 
+    <img src="screenshots/12.jpg" width="25%" /> 
+    <img src="screenshots/13.jpg" width="25%" /> 
 </div>
 
 ## How to Downgrade SMT
