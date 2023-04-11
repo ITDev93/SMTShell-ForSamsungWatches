@@ -7,7 +7,7 @@
                     image-rendering: pixelated;
             }
             </style>
-            <img src="screenshots/github.png" class="image" />
+            <img src="https://raw.githubusercontent.com/ITDev93/SMTShell-ForSamsungWatches/master/screenshots/github.png" class="image" />
         </div>
     </foreignObject>
 </svg>
