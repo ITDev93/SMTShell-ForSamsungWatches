@@ -1,3 +1,4 @@
+
 ## My Contribution to this project is making the app ui watch friendly...
 ### This will not work on phones, only Samsung WearOS Watches (Watch4 and newer)
 Features of the watch application:
