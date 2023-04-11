@@ -13,6 +13,7 @@ TODO: test minification and resource shrink (current apk size 17.8MB, perhaps sh
 Main thread:
 https://github.com/BLuFeNiX/SMTShell
 
+---
 ### SMTShell
 This tool allows most Samsung devices to achieve a `system` shell (UID 1000). It was patched in OneUI 5.1, but will work on Android 13 running OneUI 5.0 or older. It should work as far back and Android 9.0 (and maybe earlier).
 
