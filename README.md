@@ -1,9 +1,15 @@
+# My Contribution to this project is making the app ui watch friendly...
+
+Main thread:
+https://github.com/BLuFeNiX/SMTShell
+
 # SMTShell
 
 This tool allows most Samsung devices to achieve a `system` shell (UID 1000). It was patched in OneUI 5.1, but will work on Android 13 running OneUI 5.0 or older. It should work as far back and Android 9.0 (and maybe earlier).
 
 It also acts similar to Magisk or SuperSU, allowing apps to easily execute `system` commands via [SMTShell-API](https://github.com/BLuFeNiX/SMTShell-API/).
 
+##TODO: update photos from phone to watch...
 <div align="center">
     <img src="screenshots/01.png" width="30%" />
     <img src="screenshots/02.png" width="30%" /> 
