@@ -3,8 +3,8 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 		    <style>
 		    .image {
-			width:100%
-			    image-rendering: pixelated;
+			width:100%;
+			image-rendering: pixelated;
 		    }
 		    </style>
 		    <image href="screenshots/github.png" class="image" />
