@@ -7,7 +7,7 @@
 			    image-rendering: pixelated;
 		    }
 		    </style>
-		    <img src="screenshots/github.png" class="image" />
+		    <image src="screenshots/github.png" class="image" />
 		</div>
 	</foreignObject>
 </svg>
