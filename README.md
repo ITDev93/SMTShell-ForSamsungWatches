@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="screenshots/github.png?" width="100%" />
+    <img src="screenshots/github-banner.png" width="100%" />
 </div>
 
 ## My Contribution to this project is making the app ui watch friendly...
