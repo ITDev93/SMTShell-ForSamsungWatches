@@ -64,7 +64,7 @@
             android:exported="true"
             android:permission="android.permission.REBOOT">
             <intent-filter>
-                <action android:name="com.samsung.SMT.lang.smtshell" />
+                <action android:name="com.samsung.SMT.lang.smtshellwatch" />
             </intent-filter>
         </service>
 
