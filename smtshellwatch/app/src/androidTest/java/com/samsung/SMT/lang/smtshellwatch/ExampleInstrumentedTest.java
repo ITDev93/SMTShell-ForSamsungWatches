@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.samsung.SMT.lang.smtshell", appContext.getPackageName());
+        assertEquals("com.samsung.SMT.lang.smtshellwatch", appContext.getPackageName());
     }
 }
