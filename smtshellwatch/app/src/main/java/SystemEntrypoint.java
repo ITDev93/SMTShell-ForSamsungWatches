@@ -73,7 +73,7 @@ public class SystemEntrypoint {
 
         // send initial ping to our app only
         Log.i(TAG, "sending ready msg");
-        sAppContext.sendBroadcast(new Intent(ACTION_API_READY).setPackage("com.samsung.SMT.lang.smtshell"));
+        sAppContext.sendBroadcast(new Intent(ACTION_API_READY).setPackage("com.samsung.SMT.lang.smtshellwatch"));
 
         Log.i(TAG, "API ready");
     }
