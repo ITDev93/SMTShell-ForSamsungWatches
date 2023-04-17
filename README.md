@@ -42,9 +42,10 @@ It also acts similar to Magisk or SuperSU, allowing apps to easily execute `syst
 
 ## How to Downgrade SMT
 ### Usage (with Shizuku)
-Simply run the app and grant Shizuku access - Youtube video below:
-
-[![Youtube - SMT Shell for Samsung Watches - Shizuku method](https://img.youtube.com/vi/3gq3B2aH7-8/0.jpg)](https://www.youtube.com/watch?v=3gq3B2aH7-8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3gq3B2aH7-8
+" target="_blank"><img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" 
+alt="Youtube - SMT Shell for Samsung Watches - Shizuku method" width="60" height="40" border="0" /></a>
+Simply run the app and grant Shizuku access.
 
 ### Usage (no Shizuku)
 1. Downgrade the TTS app to [the version provided](https://raw.githubusercontent.com/BLuFeNiX/SMTShell/master/smtshell/app/src/main/assets/com.samsung.SMT_v3.0.02.2.apk) (this must be done after every reboot):
