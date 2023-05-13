@@ -1,9 +1,11 @@
 <div align="center">
     <img src="screenshots/github-banner.png" width="100%" />
 </div>
+
 ```diff
 - As of April 2023 Security Patch - this exploit does not work anymore...
 ```
+
 ## My Contribution to this project is making the app ui watch friendly...
 ### This will not work on phones, only Samsung WearOS Watches (Watch4 and newer)
 Features of the watch application:
