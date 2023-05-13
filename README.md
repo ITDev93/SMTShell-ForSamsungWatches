@@ -3,7 +3,8 @@
 </div>
 
 ```diff
-- As of April 2023 Security Patch - this exploit does not work anymore...
+- As of April 2023 Security Patch!
+- this exploit does not work anymore...
 ```
 
 ## My Contribution to this project is making the app ui watch friendly...
